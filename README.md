@@ -66,3 +66,5 @@ Once you have an image generator that sparks joy, you can setup [automatic GitHu
 
 - Steven ([@styfle](https://twitter.com/styfle)) - [Vercel](https://vercel.com)
 - Evil Rabbit ([@evilrabbit](https://twitter.com/evilrabbit_)) - [Vercel](https://vercel.com)
+  
+ If you like what I am doing please consider [sponsor my work](https://github.com/sponsors/fwartner)!
