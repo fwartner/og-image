@@ -147,6 +147,7 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'Vue', value: 'https://raw.githubusercontent.com/vuejs/art/master/logo.svg' },
     { text: 'Terraform', value: 'https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'None', value: '' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -154,6 +155,7 @@ const imageDarkOptions: DropdownOption[] = [
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Vue', value: 'https://raw.githubusercontent.com/vuejs/art/master/white-on-dark-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'None', value: '' },
 ];
 
 const widthOptions = [
