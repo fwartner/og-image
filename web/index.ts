@@ -144,6 +144,8 @@ const markdownOptions: DropdownOption[] = [
 const imageLightOptions: DropdownOption[] = [
     { text: 'Laravel', value: 'https://raw.githubusercontent.com/laravel/art/master/logo-type/5%20svg/3%20RGB/2%20B%26W/laravel-logotype-rgb-black.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
+    { text: 'Vue', value: 'https://raw.githubusercontent.com/vuejs/art/master/logo.svg' },
+    { text: 'Terraform', value: 'https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
 ];
 
@@ -151,6 +153,7 @@ const imageDarkOptions: DropdownOption[] = [
 
     { text: 'Laravel', value: 'https://raw.githubusercontent.com/laravel/art/master/logo-type/5%20svg/3%20RGB/2%20B%26W/laravel-logotype-rgb-white.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
+    { text: 'Vue', value: 'https://raw.githubusercontent.com/vuejs/art/master/white-on-dark-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
 ];
 
